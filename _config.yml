@@ -50,7 +50,7 @@ markdown: kramdown
 kramdown:
   extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
 #theme: academic
-remote_theme: sidjay10/academic
+remote_theme: gaalcaras/academic
 gems:
   - jekyll-feed
 exclude:
