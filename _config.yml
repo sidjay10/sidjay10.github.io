@@ -3,9 +3,13 @@ title: Siddharth Jayashankar
 title_html: "<b>{{ Siddharth Jayashankar }}</b>"
 description:
     Siddharth Jayashankar's Webpage
-baseurl: ""
+domain: my-site.github.io       
 url: "https://sidjay10.github.io"
 image: "resources/ProfilePicture.jpg"
+
+
+url: https://my-site.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+
 
 # Author
 author: Siddharth Jayashankar
