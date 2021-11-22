@@ -58,3 +58,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - _academic
+
+theme: jekyll-theme-cayman
