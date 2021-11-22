@@ -5,6 +5,7 @@ description:
     Siddharth Jayashankar's Webpage
 domain: my-site.github.io       
 url: "https://sidjay10.github.io"
+#baseurl: "https://sidjay10.github.io"
 image: "resources/ProfilePicture.jpg"
 
 

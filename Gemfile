@@ -16,7 +16,9 @@ gem "github-pages", "~> 219", group: :jekyll_plugins
 
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "academic", path: "_academic/"
+#gem "academic", path: "_academic/"
+
+gem "academic", :git => 'https://github.com/sidjay10/academic.git'
 
 gem "webrick"
 gem "rexml"
