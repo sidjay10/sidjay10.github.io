@@ -1,0 +1,54 @@
+# General settings
+title: Siddharth Jayashankar
+title_html: "<b>{{ Siddharth Jayashankar }}</b>"
+description:
+    Siddharth Jayashankar's Webpage
+baseurl: ""
+url: "https://sidjay10.github.io"
+image: "resources/ProfilePicture.jpg"
+
+# Author
+author: Siddharth Jayashankar
+
+email:
+  - t-siddharthj [at] microsoft.com
+  - sidjay64 [at] gmail.com
+github_username: sidjay10
+# keybase_username: gaalcaras
+linkedin_username: sidjay10
+# author_website: https://sociologs.com
+cv:
+  url: assets/cv_gaalcaras.pdf
+
+typing_text:
+  - "There is an easy way and a hard way…"
+  - "… The hard part is finding the easy way."
+  - "When all else fails…" 
+  - "Reboot!"
+  - "Experience is the name one gives to their mistakes."
+  - "There’s no place like 127.0.0.1"
+  - "When we had no computers…"
+  - "… we had no programming problems either!"
+  - "Live, Laugh and Love (me)? ❤️"
+
+# Nav menu
+nav_ext_links:
+  - name: 📃 CV
+    url:
+     /resources/cv.pdf 
+  - name: 🖋️ Blog
+    url:
+      /blog
+
+# Build settings
+markdown: kramdown 
+kramdown:
+  extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
+theme: academic
+gems:
+  - jekyll-feed
+exclude:
+  - jekyll_build.sh
+  - Gemfile
+  - Gemfile.lock
+  - _academic

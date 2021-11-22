@@ -1,0 +1,67 @@
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% if page.seo.title %}
+  <title>{{ page.seo.title }}</title>
+  {% else %}
+  <title>{{ page.title | append: " | " | default:"" }}{{ site.title }}</title>
+  {% endif %}
+
+  {% if page.seo.description %}
+  <meta name="description" content="{{ page.seo.description | truncate: 160 }}">
+  {% elsif page.summary %}
+  <meta name="description" content="{{ page.summary | truncate: 160 }}">
+  {% else %}
+  <meta name="description" content="{{ site.description }}">
+  {% endif %}
+
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+
+  {% capture favicons %}
+  {% for file in site.static_files %}
+  {% if file.path contains "apple-touch-icon.png" %}
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ file.path }}">
+  {% endif %}
+
+  {% if file.path contains "favicon-16x16.png" %}
+  <link rel="icon" type="image/png" href="{{ file.path }}" sizes="16x16">
+  {% endif %}
+
+  {% if file.path contains "favicon-32x32.png" %}
+  <link rel="icon" type="image/png" href="{{ file.path }}" sizes="32x32">
+  {% endif %}
+
+  {% if file.path contains "manifest.json" %}
+  <link rel="manifest" href="{{ file.path }}">
+  {% endif %}
+
+  {% if file.path contains "safari-pinned-tab.svg" %}
+  <link rel="mask-icon" href="{{ file.path }}" color="#{{ site.favicon.safari | default:"ffffff" }}">
+  {% endif %}
+
+  {% endfor %}
+  {% endcapture %}
+  {{ favicons | strip_newlines | lstrip }}
+  <meta name="theme-color" content="#{{ site.favicon.theme | default:"ffffff" }}">
+
+  {% assign pagename = page.path | split:"." | first %}
+
+  {% if page.layout == "about" %} 
+    <script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ "/assets/js/app.js" | prepend: site.baseurl }}"></script>
+  <!-- {% else if page.layout == "post" %}
+    {% assign i18n_posts = site.posts | where_exp:"p","p.path contains pagename" %}
+  {% else %}
+    {% assign i18n_posts = site.pages | where_exp:"p","p.path contains pagename" %} -->
+  {% endif %}
+
+  {% if site.piwik %}
+  {% include piwik.html %}
+  {% endif %}
+  {% if jekyll.environment == 'production' %}
+  {% endif %}
+</head>
+
