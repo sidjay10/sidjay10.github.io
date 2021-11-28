@@ -25,7 +25,7 @@ I spent my spring 2020 semester at EPFL as an exchange student.
 **Mentors:** [Akash Lal](https://www.microsoft.com/en-us/research/people/akashl/), [Kapil Vaswani](https://www.microsoft.com/en-us/research/people/kapilv/), [Pantazis Deligiannis](https://pdeligia.github.io/)
 
 I currently work as a [research fellow](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) at Microsoft Research India.
-My research focuses on designing protocols for secure communication and remote attestation verification of services running in secure execution environments on [Azure Confidential Computing](https://azure.microsoft.com/en-in/solutions/confidential-compute/) to allow users to determine whether services provide privacy guarantees.
+My research focuses on designing sytems and protocols to technologically guarantee data privacy compliance for microservies running in Trusted Execution Environments on trusted execution on [Azure Confidential Computing](https://azure.microsoft.com/en-in/solutions/confidential-compute/).
 
 
 ### Oct 2020 - May 2021 · [CAR3S Research Group, IIT Kanpur](https://www.cse.iitb.ac.in/~biswa/mentees.html) ###

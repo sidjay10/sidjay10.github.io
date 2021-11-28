@@ -9,10 +9,10 @@ seo:
 
 Hey there! Welcome to my homepage. 
 
-I currently work as a Research Fellow in the systems group at Microsoft Research India. My current research focuses on designing systems and protocols for applications running in Trusted Execution Environments to technologically guarantee data privavy compliance and enforcement. I'm currently investigating secure communication and remote attestation verification for microservices running in TEEs. My research interests span computer architecture, operating systems, programming langauges and distriubuted systems.
+I currently work as a Research Fellow in the systems group at Microsoft Research India. My current research focuses on designing systems and protocols for applications running in Trusted Execution Environments to technologically guarantee data privacy compliance and enforcement. I'm currently investigating secure communication and remote attestation verification for microservices running in TEEs. 
 
 In 2021, I graduated from the Indian Institute of Technology, Kanpur with a Bachelor of Technology in Computer Science and Engineering. I also spent time at EPFL, Intel Labs, IISc Bangalore.
 
-I am deeply interested in all things systems, software and programming languages. I love hacking around different types of systems...
+My research interests span computer architecture, operating systems, programming langauges and distriubuted systems. I am excited by all things systems, software and programning. In my spare time, I love hacking around different types of systems.
 
 I also write a blog where I typically examine the workings of systems under the hood. If you're interested :/, you can find my writings [here](). 
