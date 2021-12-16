@@ -30,7 +30,7 @@ typing_text:
   - "… The hard part is finding the easy way."
   - "When all else fails…" 
   - "Reboot!"
-  - "Experience is the name one gives to their mistakes."
+#  - "Experience is the name one gives to their mistakes."
   - "There’s no place like 127.0.0.1"
   - "When we had no computers…"
   - "… we had no programming problems either!"
@@ -41,9 +41,9 @@ nav_ext_links:
   - name: 📃 CV
     url:
      /resources/cv.pdf 
-  - name: 🖋️ Blog
-    url:
-      /blog
+  # - name: 🖋️ Blog
+  #   url:
+  #     /blog
 
 # Build settings
 markdown: kramdown 

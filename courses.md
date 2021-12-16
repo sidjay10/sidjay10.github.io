@@ -35,7 +35,7 @@ My research focuses on designing sytems and protocols to technologically guarant
 
 I ported the [Valgrind](https://valgrind.org/) debugger to run on android-aarch64 & android-amd64 and built [csTracer](https://github.com/sidjay10/cstracer), a tool for tracing android applications without requiring thier source code. I collected traces of geekbench5 and AnTuTu using cstracer and profiled their memory access patterns.
 
-Read more about tracing android applications with cstracer and some preliminary results from simulating these traces on arm cortexA77 & cortexA55 cores [here]()
+Read more about tracing android applications with cstracer and some preliminary results from simulating these traces on arm cortexA77 & cortexA55 cores [here](https://docs.google.com/presentation/d/1ItN-Z4M6NXTQTMUEJOMCRhUswRGA3jiho9J-yJkvMzM/edit)
 
 ### Mar 2020 - Jul 2020 · [PARSA, EPFL](https://parsa.epfl.ch/) ###
 **External Student**
