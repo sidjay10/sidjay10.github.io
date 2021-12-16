@@ -21,7 +21,7 @@ source Code available on  [Github](https://github.com/sidjay10/CS335-C-Compiler)
 A comparitive study to evaluate state of the cache replacement policies - Hawkeye, SHiP and DRRiP usin SPEC CPU workloads. This project was done as a part of the course CS622 - Advanced Computer Architecture at IITK.
 
 
-Click here for the [report](https://github.com/sidjay10/CS622-Project/blob/master/Project_Report.pdf)
+Click here for the [report](https://docs.google.com/gview?url=https://raw.githubusercontent.com/sidjay10/CS622-Project/master/Project_Report.pdf)
 
 ### Cache Simulator to study effects of architecture on replacment policies
 A cache block simulator that measures the effect of replacement policy, cache associativity and hierarchy (Inclusive, Exclusive, NINE) on hit and miss rates. This project was done as a part of the course CS622 - Advanced Computer Architecture at IITK.
