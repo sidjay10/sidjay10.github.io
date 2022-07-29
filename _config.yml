@@ -16,7 +16,7 @@ url: https://my-site.github.io  # the base hostname and protocol for your site, 
 author: Siddharth Jayashankar
 
 email:
-  - t-siddharthj [at] microsoft.com
+  - sidjay [at] cmu.edu
   - sidjay64 [at] gmail.com
 github_username: sidjay10
 # keybase_username: gaalcaras
@@ -58,5 +58,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - _academic
+  - vendor
 
 theme: jekyll-theme-cayman

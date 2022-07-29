@@ -7,6 +7,10 @@ permalink: /experience/
 
 ## 🎓 Education ##
 
+### Aug 2022 - Present · [Carnegie Mellon University, School of Computer Science](https://www.scs.cmu.edu/) ###
+**PhD student, Computer Science**
+
+
 ### Jul 2017 - May 2021 · [Indian Institute of Technology, Kanpur](https://www.cse.iitk.ac.in) ###
 **Bachelor of Technology, Computer Science and Engineering**
 
@@ -19,13 +23,12 @@ I spent my spring 2020 semester at EPFL as an exchange student.
 
 ## 🖥️ Work
 
-### Jul 2021 - Present · [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) ###
+### Jul 2021 - Jul 2022· [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) ###
 **Research Fellow**
 
 **Mentors:** [Akash Lal](https://www.microsoft.com/en-us/research/people/akashl/), [Kapil Vaswani](https://www.microsoft.com/en-us/research/people/kapilv/), [Pantazis Deligiannis](https://pdeligia.github.io/)
 
-I currently work as a [research fellow](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) at Microsoft Research India.
-My research focuses on designing sytems and protocols to technologically guarantee data privacy compliance for microservies running in Trusted Execution Environments on trusted execution on [Azure Confidential Computing](https://azure.microsoft.com/en-in/solutions/confidential-compute/).
+I was a [research fellow](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) at Microsoft Research India where I worked on designing sytems and protocols to technologically guarantee data privacy compliance for microservies running in Trusted Execution Environments on trusted execution on [Azure Confidential Computing](https://azure.microsoft.com/en-in/solutions/confidential-compute/).
 
 
 ### Oct 2020 - May 2021 · [CAR3S Research Group, IIT Kanpur](https://www.cse.iitb.ac.in/~biswa/mentees.html) ###
