@@ -7,7 +7,7 @@ permalink: /experience/
 
 ## 🎓 Education ##
 
-### Aug 2022 - Present · [Carnegie Mellon University, School of Computer Science](https://www.scs.cmu.edu/) ###
+### Aug 2022 - Present · [Carnegie Mellon University](https://www.scs.cmu.edu/) ###
 **PhD student, Computer Science**
 
 
