@@ -12,18 +12,21 @@ ruby RUBY_VERSION
 
 # gem "jekyll", "4.2.1"
 
-gem "github-pages", "~> 219", group: :jekyll_plugins
+gem "github-pages", "~> 232", group: :jekyll_plugins
 
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "academic", path: "_academic/"
 
 gem "academic", :git => 'https://github.com/sidjay10/academic.git'
+#gem "academic", path: '../academic'
 
 gem "webrick"
 gem "rexml"
 gem "eventmachine"
-gem "rbtree3", "~> 0.6.0"
+gem "rbtree3", "~> 0.7.1"
+gem "base64"
+gem "csv"
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

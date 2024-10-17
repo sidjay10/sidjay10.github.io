@@ -51,7 +51,8 @@ kramdown:
   extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
 #theme: academic
 remote_theme: sidjay10/academic
-gems:
+#gems:
+plugins:
   - jekyll-feed
 exclude:
   - jekyll_build.sh
