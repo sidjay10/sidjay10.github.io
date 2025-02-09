@@ -18,14 +18,14 @@ gem "github-pages", "~> 232", group: :jekyll_plugins
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "academic", path: "_academic/"
 
-gem "academic", :git => 'https://github.com/sidjay10/academic.git'
-#gem "academic", path: '../academic'
+#gem "academic", :git => 'https://github.com/sidjay10/academic.git'
 
 gem "webrick"
 gem "rexml"
 gem "eventmachine"
 gem "rbtree3", "~> 0.7.1"
 gem "base64"
+gem "bigdecimal"
 gem "csv"
 
 
@@ -34,8 +34,8 @@ gem "csv"
 # gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
-group :jekyll_plugins do
-   gem "jekyll-feed", "~> 0.6"
-   #gem "jekyll-livereload"
-   gem "jekyll-data"
-end
+#group :jekyll_plugins do
+#   gem "jekyll-feed", "~> 0.6"
+#   #gem "jekyll-livereload"
+#   gem "jekyll-data"
+#end
