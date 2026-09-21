@@ -4,6 +4,14 @@ lang: en
 layout: page
 permalink: /Publications
 ---
+### Cerium: A Multi-GPU Framework For TB-Scale Encrypted Inference (SOSP'26)
+
+**Siddharth Jayashankar**, Joshua Kim, Michael B. Sullivan, Wenting Zheng, Dimitrios Skarlatos. Proceedings of the 32nd ACM Symposium on Operating Systems Principles, Prague, Czech Republic, September 2026
+\
+[PDF](/resources/papers/2026_Cerium.pdf)
+[Slides]()
+[Source Code]()
+
   
 ### Cinnamon: A Framework For Scale Out Encrypted AI (ASPLOS'25)
 
