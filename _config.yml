@@ -1,15 +1,12 @@
 # General settings
 title: Siddharth Jayashankar
-title_html: "<b>{{ Siddharth Jayashankar }}</b>"
+title_html: "<b>Siddharth Jayashankar</b>"
 description:
     Siddharth Jayashankar's Webpage
-domain: my-site.github.io       
+domain: sidjay10.github.io
 url: "https://sidjay10.github.io"
 #baseurl: "https://sidjay10.github.io"
 image: "resources/ProfilePicture.jpg"
-
-
-url: https://my-site.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 
 
 # Author
@@ -24,7 +21,7 @@ linkedin_username: siddharth-jayashankar
 google_scholar: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AOv-ny_KtFfhpuaL2F1CNAfG9RB82a8T5wkW6lOJH5xSVTul1AJeZ07UQ42nQ8P7GAhDzd7Kw68HaUJYABYLeV-AuSku&user=WTcM2ZAAAAAJ
 # author_website: https://sociologs.com
 cv:
-  url: assets/cv_gaalcaras.pdf
+  url: resources/cv.pdf
 
 typing_text:
   - "There is an easy way and a hard way…"
@@ -35,7 +32,6 @@ typing_text:
   - "There’s no place like 127.0.0.1"
   - "When we had no computers…"
   - "… we had no programming problems either!"
-  - "Live, Laugh and Love (me)? ❤️"
 
 # Nav menu
 nav_ext_links:
@@ -50,9 +46,6 @@ nav_ext_links:
 markdown: kramdown 
 kramdown:
   extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
-#theme: academic
-remote_theme: sidjay10/academic
-#gems:
 plugins:
   - jekyll-feed
 exclude:
@@ -61,5 +54,3 @@ exclude:
   - Gemfile.lock
   - _academic
   - vendor
-
-theme: jekyll-theme-cayman

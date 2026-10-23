@@ -10,7 +10,7 @@ permalink: /Publications
 \
 [PDF](/resources/papers/2026_Cerium.pdf)
 [Slides]()
-[Source Code]()
+[Source Code](https://github.com/CMU-CAOS/Cerium)
 
   
 ### Cinnamon: A Framework For Scale Out Encrypted AI (ASPLOS'25)
@@ -19,5 +19,5 @@ permalink: /Publications
 \
 [PDF](/resources/papers/2025_Cinnamon.pdf)
 [Slides]()
-[Source Code]()
+[Source Code](https://github.com/CMU-CAOS/Cinnamon)
 
