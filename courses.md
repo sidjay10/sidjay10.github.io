@@ -23,6 +23,9 @@ I spent my spring 2020 semester at EPFL as an exchange student.
 
 ## 🖥️ Work
 
+### May 2026 - Aug 2026· [Architecture Research Group, NVIDIA](https://research.nvidia.com/research-area/computer-architecture) ###
+**Research Intern**
+
 ### May 2024 - Aug 2024· [Architecture Research Group, NVIDIA](https://research.nvidia.com/research-area/computer-architecture) ###
 **Research Intern**
 
