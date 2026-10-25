@@ -8,7 +8,7 @@ permalink: /experience/
 ## 🎓 Education ##
 
 ### Aug 2022 - Present · [Carnegie Mellon University](https://www.scs.cmu.edu/) ###
-**PhD student, Computer Science**
+**PhD , Computer Science**
 
 
 ### Jul 2017 - May 2021 · [Indian Institute of Technology, Kanpur](https://www.cse.iitk.ac.in) ###
@@ -29,12 +29,12 @@ I spent my spring 2020 semester at EPFL as an exchange student.
 ### May 2024 - Aug 2024· [Architecture Research Group, NVIDIA](https://research.nvidia.com/research-area/computer-architecture) ###
 **Research Intern**
 
-### Jul 2021 - Jul 2022· [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) ###
+### Jul 2021 - Jul 2022· [Systems Research Group, Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) ###
 **Research Fellow**
 \
 **Mentors:** [Akash Lal](https://www.microsoft.com/en-us/research/people/akashl/), [Kapil Vaswani](https://www.microsoft.com/en-us/research/people/kapilv/), [Pantazis Deligiannis](https://pdeligia.github.io/)
 
-I was a [research fellow](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) at Microsoft Research India where I worked on designing sytems and protocols to technologically guarantee data privacy compliance for microservies running in Trusted Execution Environments on trusted execution on [Azure Confidential Computing](https://azure.microsoft.com/en-in/solutions/confidential-compute/).
+I was a [research fellow](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) at Microsoft Research India where I worked on designing sytems and protocols for microservies running in Trusted Execution Environments on trusted execution on [Azure Confidential Computing](https://azure.microsoft.com/en-in/solutions/confidential-compute/). My work is now patented.
 
 
 ### Oct 2020 - May 2021 · [CAR3S Research Group, IIT Kanpur](https://www.cse.iitb.ac.in/~biswa/mentees.html) ###
@@ -42,16 +42,15 @@ I was a [research fellow](https://www.microsoft.com/en-us/research/academic-prog
 \
 **Mentor:** [Biswabandan Panda](https://www.cse.iitb.ac.in/~biswa/index.html)
 
-I ported the [Valgrind](https://valgrind.org/) debugger to run on android-aarch64 & android-amd64 and built [csTracer](https://github.com/sidjay10/cstracer), a tool for tracing android applications without requiring thier source code. I collected traces of geekbench5 and AnTuTu using cstracer and profiled their memory access patterns.
+Research on profiling tools for the android OS and cahche compression.
 
-Read more about tracing android applications with cstracer and some preliminary results from simulating these traces on arm cortexA77 & cortexA55 cores [here](https://docs.google.com/presentation/d/1ItN-Z4M6NXTQTMUEJOMCRhUswRGA3jiho9J-yJkvMzM/edit)
 
 ### Mar 2020 - Jul 2020 · [PARSA, EPFL](https://parsa.epfl.ch/) ###
 **Exchange Student**
 \
-**Mentor:** [Yunho Oh](https://yunho-oh.github.io/)
+**Mentor:** [Yunho Oh](https://yunho-oh.github.io/), [Babak Falsafi](https://parsa.epfl.ch/~falsafi/)
 
-I worked on understanding the performance characteristics of container-level horizontal and vertical scaling of [CloudSuite](https://github.com/parsa-epfl/cloudsuite) benchmark workloads on server CPUs.
+Understanding the performance characteristics of scaling [CloudSuite](https://github.com/parsa-epfl/cloudsuite) workloads on server CPUs.
 
 ### Dec 2019 - Feb 2020 · [Processor Architecture Reserach Lab, Intel](https://www.cse.iitk.ac.in) ###
 **Undergraduate Research Intern**
@@ -65,4 +64,4 @@ I worked on developing an L2 prefetcher that can negate the performance drop cau
 \
 **Mentor:** [Arindam Khan](https://www.csa.iisc.ac.in/~arindamkhan/)
 
-I worked as an intern in the Algorithms, Combinatorics and Optimizations Group on developing a new polynomial time approximation algorithm to improve the 2 approximation bound of [Steinberg's 2D strip packing algorithm](https://epubs.siam.org/doi/10.1137/S0097539793255801).
+Research Intern in the Algorithms, Combinatorics and Optimizations Group.
